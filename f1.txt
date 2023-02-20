@@ -1,1 +1,2 @@
 local-git init
+git push
