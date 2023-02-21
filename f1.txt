@@ -1,2 +1,3 @@
 local-git init
 git push
+github connection test
